@@ -58,3 +58,4 @@ Save captured hand landmark data for training models
 ### 👨‍💻 Author
 Abhishek Kumar
 GitHub: https://github.com/themarcos-abhi
+Linked in
