@@ -87,10 +87,7 @@ with mp_hand.Hands(min_detection_confidence=0.5,
             current_key_pressed = set()
 
 
-            # if lmList[8][2] < lmList[6][2]:
-            #     print("Open")
-            # else:
-            #     print("Close")
+        
         cv2.imshow("Frame",image)
         k=cv2.waitKey(1)
         if k==ord('q'):
