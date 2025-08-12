@@ -58,4 +58,5 @@ if __name__=='__main__':
 		PressKey(0x11)
 		time.sleep(1)
 		ReleaseKey(0x11)
+
 		time.sleep(1)
